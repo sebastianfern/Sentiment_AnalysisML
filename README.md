@@ -10,6 +10,9 @@ High Accuracy: The model boasts an impressive accuracy rate of 86%, showcasing i
 
 Optimized for Mobile Deployment: Leveraged TensorFlow Lite to optimize the model. Through quantization techniques, the model size was reduced by 92.61%, making it highly efficient for mobile and edge deployments without compromising its accuracy.
 
+
+![Screenshot 2023-09-24 233752](https://github.com/sebastianfern/Sentiment_AnalysisML/assets/70400042/8b320e48-2a21-4785-8b16-448e2370bc21)
+
 Technologies Used:
 Programming Language: Python
 Frameworks & Libraries: TensorFlow, TensorFlow Lite
