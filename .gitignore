@@ -1,0 +1,4 @@
+data/IMDB_Dataset.csv
+myenv/
+saved_model_path/
+__pycache__/
