@@ -13,3 +13,4 @@ Optimized for Mobile Deployment: Leveraged TensorFlow Lite to optimize the model
 Technologies Used:
 Programming Language: Python
 Frameworks & Libraries: TensorFlow, TensorFlow Lite
+Data set from https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
